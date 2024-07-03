@@ -5,7 +5,7 @@
 
 // Developed by
 // 1. Muhammad Nauman Arif (2514-2022)
-// 1. Ismail Dad Khan (2927-2022)
+// 2. Ismail Dad Khan (2927-2022)
 
 #include <iostream>
 #include <iomanip>
